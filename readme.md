@@ -1,7 +1,5 @@
 # University Website
 
-## Website name - Shree University Bhopal
-
 ## Description
 
 Project type - HTML CSS Mini Project \
@@ -22,3 +20,4 @@ CSS custom properties\
 JavaScript
 
 ## Deployment
+Live site URL - https://benevolent-marshmallow-4cee1c.netlify.app
